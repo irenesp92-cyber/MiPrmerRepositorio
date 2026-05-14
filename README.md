@@ -1,2 +1,2 @@
 # MiPrimerRepositorio
-Primer repositorio para practicar con Git y GitHub
+Primer **repositorio** para practicar con _Git_ y _GitHub_
